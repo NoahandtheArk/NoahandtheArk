@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Noah Mashaba
 
-I'm a Full Stack Software Developer** and **IT Infrastructure Engineer with a strong foundation in both web development and network engineering. I recently completed an Immersive Full Stack Web & Software Engineering Bootcamp** with HyperionDev, building production-style applications using modern web technologies.
+I'm a Full Stack Software Developer** and IT Infrastructure Engineer with a strong foundation in both web development and network engineering. I recently completed an Immersive Full Stack Web & Software Engineering Bootcamp** with HyperionDev, building production-style applications using modern web technologies.
 ---
 
 ## 🚀 About Me
